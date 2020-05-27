@@ -1,0 +1,34 @@
+[
+    {
+        "tradeId": "T12345",
+        "account": {
+            "accountId": "ACC1",
+            "bookName": "Euro Trades",
+            "accountType": "Client"
+        },
+        "side": "BUY",
+        "quantity": 100,
+        "price": 676.2,
+        "productDetail": {
+            "productId": "P987",
+            "exchange": "LSE",
+            "ticker": "SGE"
+        }
+    },
+    {
+        "tradeId": "T12346",
+        "account": {
+            "accountId": "ACC1",
+            "bookName": "Euro Trades",
+            "accountType": "Client"
+        },
+        "side": "SELL",
+        "quantity": 5,
+        "price": 676.5,
+        "productDetail": {
+            "productId": "P987",
+            "exchange": "LSE",
+            "ticker": "SGE"
+        }
+    }
+]

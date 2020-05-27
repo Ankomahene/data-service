@@ -1,0 +1,21 @@
+[{
+        "productId": "P556",
+        "exchange": "LSE",
+        "ticker": "0AI4",
+        "displayName": "CARLSBERG `B`DKK20",
+        "open": 837.7,
+        "high": 848.8,
+        "ask": 649,
+        "volume": 11627
+    },
+    {
+        "productId": "P987",
+        "exchange": "LSE",
+        "ticker": "SGE",
+        "displayName": "Sage Group Plc",
+        "open": 642.6,
+        "high": 660,
+        "ask": 0,
+        "volume": 6342504
+    }
+]
